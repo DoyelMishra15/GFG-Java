@@ -2,7 +2,7 @@
 // Tic-Tac-Toe Game
 import java.util.*;
 
-public class Geeks {
+public class Tic_Tac_toe {
   
     static String[] board;
     static String turn;
